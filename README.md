@@ -1,10 +1,2 @@
-- 👋 Hi, I’m Luis Fernando
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LFS9902/LFS9902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, seja bem vindo(a)!
+- 🤵🏻 Me chamo Luis Fernando, tenho 23 anos, estou em busca de realizar minha transição de carreira, atualmente trabalho na área contábil, porém a tecnologia sempre me dispertou grande interesse, a possibilidade de explorar minha criatividade, é o que me fascina no mundo da programação ;) 
