@@ -1,2 +1,2 @@
 - 👋 Olá, seja bem vindo(a)!
-- 🤵🏻 Me chamo Luis Fernando, tenho 23 anos, estou em busca de realizar minha transição de carreira, atualmente trabalho na área contábil, porém a tecnologia sempre me dispertou grande interesse, a possibilidade de explorar minha criatividade, é o que me fascina no mundo da programação ;) 
+- 🤵🏻 Me chamo Luis Fernando, tenho 23 anos, estou em busca de realizar minha transição de carreira. Atualmente trabalho na área contábil, porém a tecnologia sempre me dispertou grande interesse, a possibilidade de explorar minha criatividade, é o que me fascina no mundo da programação ;) 
