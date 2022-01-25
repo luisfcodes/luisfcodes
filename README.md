@@ -4,6 +4,8 @@
 
 🤵🏻 Welcome to my Github profile! Currently, my biggest goal is to make my career transition. I work in the accounting area as a jr. accounting analyst, but technology has always aroused great interest in me. The possibility of exploring my creativity is what fascinates me in the world of programming.
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
 <div align="center">
   <a href="https://github.com/LFS9902">
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=LFS9902&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,12 +15,14 @@
 
 <div style="display: inline_block"><br>
   <strong>Languages and tools that I have knowledge of so far:</strong><br>
-  <img align="center" alt="Icon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Icon-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Icon-Bulma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
-  <img align="center" alt="Icon-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Icon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTMl">
+  <img align="center" alt="Icon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" alt="Icon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="Icon-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
+  <img align="center" alt="Icon-Bulma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" title="Bulma">
+  <img align="center" alt="Icon-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code">
+  <img align="center" alt="Icon-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
+  <img align="center" alt="Icon-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="NextJS"/>
 </div>
 
 <div style="display: inline_block"><br>
