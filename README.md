@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <div align="center">
-  <a href="https://github.com/LFS9902">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=LFS9902&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFS9902&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/luisfcodes">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luisfcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfcodes&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -27,15 +27,18 @@
 
 <div style="display: inline_block"><br>
   <strong>Contact me:</strong><br>
-  <a href="https://www.linkedin.com/in/luisfernando9902/" target="_blank">
+  <a href="https://www.linkedin.com/in/luisfcodes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/_luuis_fernando_/" target="_blank">
+  <a href="https://www.instagram.com/luisfcodes/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/luisfcodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="mailto:luis.silva9902@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
-![Snake animation](https://github.com/LFS9902/LFS9902/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luisfcodes/luisfcodes/blob/output/github-contribution-grid-snake.svg)
