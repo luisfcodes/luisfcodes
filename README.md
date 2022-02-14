@@ -24,6 +24,7 @@
   <img align="center" alt="Icon-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
   <img align="center" alt="Icon-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="NextJS"/>
   <img align="center" alt="Icon-Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS"/>
+  <img align="center" alt="Icon-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"/>
 </div>
 
 <div style="display: inline_block"><br>
