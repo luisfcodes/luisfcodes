@@ -26,6 +26,7 @@
   <img align="center" alt="Icon-Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS"/>
   <img align="center" alt="Icon-NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="NextJS"/>
   <img align="center" alt="Icon-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
+  <img align="center" alt="Icon-Saas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass"/>
 </div>
 
 <div style="display: inline_block"><br>
