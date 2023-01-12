@@ -23,7 +23,7 @@
   <img align="center" alt="Icon-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"/>
   <img align="center" alt="Icon-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code">
   <img align="center" alt="Icon-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
-  <img align="center" alt="Icon-Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS"/>
+  <img align="center" alt="Icon-Angular" height="45" width="45" src="https://user-images.githubusercontent.com/12867589/212189633-87cb3b62-310c-47f8-a1b5-5972203fa154.svg" title="Angular"/>
   <img align="center" alt="Icon-NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="NextJS"/>
   <img align="center" alt="Icon-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
   <img align="center" alt="Icon-Saas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass"/>
