@@ -13,20 +13,8 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <strong>Languages and tools that I have knowledge of so far:</strong><br>
-  <img align="center" alt="Icon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTMl">
-  <img align="center" alt="Icon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
-  <img align="center" alt="Icon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="Icon-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
-  <img align="center" alt="Icon-Bulma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" title="Bulma">
-  <img align="center" alt="Icon-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"/>
-  <img align="center" alt="Icon-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
-  <img align="center" alt="Icon-NextJS" height="40" width="40" src="https://user-images.githubusercontent.com/12867589/226601936-ad3d1984-5639-49a6-aa64-19d4474692f9.svg" title="NextJS"/>
-  <img align="center" alt="Icon-Angular" height="45" width="45" src="https://user-images.githubusercontent.com/12867589/212189633-87cb3b62-310c-47f8-a1b5-5972203fa154.svg" title="Angular"/>
-  <img align="center" alt="Icon-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
-  <img align="center" alt="Icon-Saas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass"/>
-</div>
+#### Languages and tools that I have knowledge of so far:
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,react,next,typescript,sass,angular)](https://skillicons.dev)
 
 <div style="display: inline_block"><br>
   <strong>Contact me:</strong><br>
