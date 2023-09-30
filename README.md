@@ -14,7 +14,7 @@
 </div>
 
 #### Languages and tools that I have knowledge of so far:
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,react,next,typescript,jest,sass,angular)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,tailwind,react,next,typescript,jest,sass,angular,figma)](https://skillicons.dev)
 
 <div style="display: inline_block"><br>
   <strong>Contact me:</strong><br>
