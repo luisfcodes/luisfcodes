@@ -2,7 +2,7 @@
 
 ### I'm Luis Fernando
 
-🤵🏻 Welcome to my Github profile! Currently, my biggest goal is to make my career transition. I work in the accounting area as a jr. accounting analyst, but technology has always aroused great interest in me. The possibility of exploring my creativity is what fascinates me in the world of programming.
+As a programmer, I am constantly seeking new knowledge and challenges to enhance my skills. With a results-oriented mindset and a collaborative approach, I am always ready to tackle obstacles and find creative solutions. I am excited to contribute my talent to innovative and exciting projects. Let's work together and make a positive impact on the world! 💻✨
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
