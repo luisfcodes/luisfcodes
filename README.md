@@ -14,7 +14,7 @@ As a programmer, I am constantly seeking new knowledge and challenges to enhance
 </div>
 
 #### Languages and tools that I have knowledge of so far:
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,tailwind,react,next,typescript,jest,sass,angular,figma,nodejs&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,tailwind,react,next,typescript,jest,sass,angular,figma,nodejs,azure&perline=10)](https://skillicons.dev)
 
 <div style="display: inline_block"><br>
   <strong>Contact me:</strong><br>
