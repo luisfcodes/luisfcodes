@@ -7,8 +7,8 @@ As a programmer, I am constantly seeking new knowledge and challenges to enhance
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <a> 
-    <a href="https://github.com/luisfcodes"><img alt="Luisfcodes's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=luisfcodes&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="420px" width="49.5%"/></a>
-  <a href="https://github.com/luisfcodes"><img alt="Luisfcodes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=luisfcodes&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="420px" width="49.5%"/></a>
+    <a href="https://github.com/luisfcodes"><img alt="Luisfcodes's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=luisfcodes&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px" width="49.5%"/></a>
+  <a href="https://github.com/luisfcodes"><img alt="Luisfcodes's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=luisfcodes&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px" width="49.5%"/></a>
   <br/>
 </a>
 
